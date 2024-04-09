@@ -7,10 +7,7 @@ using namespace std;
 
 #define pb push_back
 
-
 vector<int>adu;
-
-
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     int n;

@@ -6,7 +6,6 @@ void update(int *a,int *b) {
     int k = *a;
     *a = ( *a + *b);
     *b = abs( k - *b );
-
 }
 
 int main() {
