@@ -5,6 +5,7 @@ using namespace std;
 string ltrim(const string &);
 string rtrim(const string &);
 
+
 /*
  * Complete the 'pageCount' function below.
  *
